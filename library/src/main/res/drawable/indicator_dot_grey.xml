@@ -5,7 +5,8 @@
         android:right="4.5dp"
         android:top="4dp">
         <shape android:shape="oval">
-            <solid android:color="#22222222" />
+            <!-- <solid android:color="#22222222" /> -->
+            <solid android:color="#6666" />
             <size
                 android:width="8dp"
                 android:height="8dp" />
@@ -16,7 +17,8 @@
         android:right="5dp"
         android:top="4dp">
         <shape android:shape="oval">
-            <solid android:color="#22000000" />
+            <!-- <solid android:color="#22000000" /> -->
+            <solid android:color="#aaaa" />
             <size
                 android:width="8dp"
                 android:height="8dp" />
